@@ -6,4 +6,4 @@ textwrap3
 faiss-cpu
 tqdm
 langchain
-streamlit
+streamlit==1.24.0
