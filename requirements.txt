@@ -1,0 +1,9 @@
+numpy
+python-dotenv
+PyPDF2
+pandas
+textwrap3
+faiss-cpu
+tqdm
+langchain
+streamlit
