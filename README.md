@@ -15,7 +15,7 @@ Retrieval-Augmented Generation (RAG) is a framework that enhances the performanc
 
 1. A basic chatbot is implemented in the `Basics/chatbot.ipynb` directory. This chatbot serves as an example of how to integrate RAG into a conversational AI system.
 2. A sample application is created in the `Basics/sample_app.py` directory which makes use of the Streamlit web interface to accept the PDF file and then to generate the output.
-3. The RAG implementation is demonstrated using the Pinecone vector database in the `RAG.ipynb` notebook. This notebook outlines the process of setting up a Pinecone index, embedding documents, and performing similarity searches to augment language model responses.
+3. The RAG implementation is demonstrated using the Pinecone vector database in the `Basics/RAG.ipynb` notebook. This notebook outlines the process of setting up a Pinecone index, embedding documents, and performing similarity searches to augment language model responses.
 4. The Streamlit application is demonstrated in `app.py`, which converts the RAG model created in `RAG.ipynb` into a Streamlit application using the FAISS database. This application allows users to upload a PDF file and generate responses based on the content of the PDF using the RAG model.
 
 ## How to Use the Streamlit Application
