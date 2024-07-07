@@ -5,7 +5,7 @@
 
 Retrieval-Augmented Generation (RAG) is a framework that enhances the performance of language models by incorporating external knowledge bases or document stores. RAG combines two main components: Retrieval and Generation, to provide more accurate and contextually relevant responses.
 
-## How RAG Works
+### How RAG Works
 
 1. **Input Query**: A user provides an input query or question.
 2. **Document Retrieval**: The retrieval component searches a large corpus or knowledge base to find the most relevant documents or passages related to the query.
@@ -13,4 +13,6 @@ Retrieval-Augmented Generation (RAG) is a framework that enhances the performanc
 ![RAG Workflow](https://github.com/7homasjames/Retrieval-augmented-generation-RAG-/assets/118433299/8d45c66f-9b99-418f-8d2e-6b0df0f60494)
 
 
+## Into the Code
 
+A basic chatbot is implemented in the Basics/chatbot
