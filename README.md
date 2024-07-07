@@ -1,7 +1,4 @@
-# Retrieval-augmented-generation-RAG-
-
-
-## Introduction
+# Retrieval-augmented-generation-(RAG)
 
 Retrieval-Augmented Generation (RAG) is a framework that enhances the performance of language models by incorporating external knowledge bases or document stores. RAG combines two main components: Retrieval and Generation, to provide more accurate and contextually relevant responses.
 
@@ -31,3 +28,34 @@ Retrieval-Augmented Generation (RAG) is a framework that enhances the performanc
 ### Installation
 
 1. Clone the repository:
+       ```bash
+    git clone https://github.com/your-username/Retrieval-augmented-generation-RAG-.git
+    cd Retrieval-augmented-generation-RAG-
+    ```
+
+2. Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Running the Example
+
+
+1. Prepare your `.env` file with your API keys:
+
+    ```plaintext
+    OPENAI_API_KEY=your_openai_api_key
+    ```
+
+2. Run the main script:
+
+    ```bash
+    python -m streamlit run app.py   
+    ```
+
+
+## References
+
+- [RAG: Retrieval-Augmented Generation ](https://youtu.be/wUAUdEw5oxM?si=Rk6Jwo1Qm69fpP7V)
+- [Pinecone](https://www.pinecone.io/)
