@@ -15,4 +15,5 @@ Retrieval-Augmented Generation (RAG) is a framework that enhances the performanc
 
 ## Into the Code
 
-A basic chatbot is implemented in the Basics/chatbot
+A basic chatbot is implemented in the `Basics/chatbot` directory. This chatbot serves as an example of how to integrate RAG into a conversational AI system.
+
